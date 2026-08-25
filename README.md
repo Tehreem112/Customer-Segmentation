@@ -15,7 +15,7 @@ What customer segments can be identified through purchasing patterns using RFM a
 
 
 
-# Insights & Recommendations
+# Insights
 
 Champions: They make up only 1.3% of the total, yet generate around 1.62 million in revenue, indicating great customer value and robust purchasing 
            activity.
@@ -32,21 +32,12 @@ At Risk: With an average recency of 243 days, At Risk clients make up 24.28% of 
 
 
 
-Segment       |   Recommendations 
------------------|---------------------------------------------------------------------------------------------------------------------------------
-   Champions     |  - Offer VIP service  
-                 |  - Provide initial access to upcoming products
-                 |  - Create unique loyalty incentives
----------------------------------------------------------------------------------------------------------------------------------------------------                  VIP        |  - Implement loyalty programs
-                 |  - Offer personalized discounts
-                 |  - Motivate them to move into the Champion category
-----------------------------------------------------------------------------------------------------------------------------------------------------                Regular    |  - Implement cross-selling and upselling strategies
-                 |  - Suggest additional products that enhance the original
-                 |  - Promote repeat buying by offering incentives
-----------------------------------------------------------------------------------------------------------------------------------------------------
-   At Risk       |  - Send re-engagement emails
-                 |  - Provide discount coupons 
-                 |  - Run win-back marketing initiatives
+# Segment        # Recommendations 
+
+ Champions:      Offer VIP service, Provide initial access to upcoming product, Create unique loyalty incentives
+ VIP:            Implement loyalty programs, Offer personalized discounts, Motivate them to move into the Champion category
+ Regular:        Implement cross-selling and upselling strategies, Suggest additional products that enhance the original, Promote repeat buying by offering                      incentives
+ At Risk:        Send re-engagement emails, Provide discount coupons, Run win-back marketing initiatives
   
             
 
