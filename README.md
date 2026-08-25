@@ -32,12 +32,15 @@ At Risk: With an average recency of 243 days, At Risk clients make up 24.28% of 
 
 
 
-# Segment        Recommendations 
+# Segment & Recommendations 
 
-### Champions:      Offer VIP service, Provide initial access to upcoming product, Create unique loyalty incentives
-### VIP:            Implement loyalty programs, Offer personalized discounts, Motivate them to move into the Champion category
-### Regular:        Implement cross-selling and upselling strategies, Suggest additional products that enhance the original, Promote repeat buying by offering                      incentives
-### At Risk:        Send re-engagement emails, Provide discount coupons, Run win-back marketing initiatives
+Champions:      Offer VIP service, Provide initial access to upcoming product, Create unique loyalty incentives
+
+VIP:            Implement loyalty programs, Offer personalized discounts, Motivate them to move into the Champion category
+
+Regular:        Implement cross-selling and upselling strategies, Suggest additional products that enhance the original, Promote repeat buying by offering                      incentives
+
+At Risk:        Send re-engagement emails, Provide discount coupons, Run win-back marketing initiatives
   
             
 
